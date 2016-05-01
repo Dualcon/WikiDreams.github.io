@@ -1,0 +1,21 @@
+The following resources contain additional information on Artificial Intelligence. Please use them to get more in-depth knowledge on this topic.
+
+Useful Books:
+
+Artificial Intelligence: A Modern Approach
+http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/httpwwwtuto0a-20
+
+Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms
+http://www.amazon.com/Artificial-Intelligence-Humans-Fundamental-Algorithms/dp/1493682229/httpwwwtuto0a-20
+
+Artificial Intelligence: The Basics
+http://www.amazon.com/Artificial-Intelligence-Basics-Kevin-Warwick/dp/0415564832/httpwwwtuto0a-20
+
+The Cambridge Handbook of Artificial Intelligence
+http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915/httpwwwtuto0a-20
+
+Introduction to Artificial Intelligence
+http://www.amazon.com/Introduction-Artificial-Intelligence-Enlarged-Mathematics/dp/048624864X/httpwwwtuto0a-20
+
+Artificial Intelligence Problems and Their Solutions
+http://www.amazon.com/Artificial-Intelligence-Problems-Solutions-Computer/dp/193854983X/httpwwwtuto0a-20
